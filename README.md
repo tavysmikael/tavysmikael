@@ -75,7 +75,7 @@ Open to internships, collaborations, and conversations about AI, automation, and
 
 ## 🗺️ Roadmap
 
-```
+```mermaid
 graph TD
 
 A[Software Engineering] --> B[Frontend]
@@ -96,10 +96,10 @@ D --> Agents
 E --> ROS
 E --> Computer Vision
 
-```
+```md
 ## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api?username=tavysmikael&show_icons=true&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tavysmikael&layout=compact&theme=tokyonight)
 ```
