@@ -83,23 +83,24 @@ A --> C[Backend]
 A --> D[Artificial Intelligence]
 A --> E[Robotics]
 
-B --> React
-B --> TypeScript
+B --> F[React]
+B --> G[TypeScript]
 
-C --> NestJS
-C --> PostgreSQL
-C --> Prisma
+C --> H[NestJS]
+C --> I[PostgreSQL]
+C --> J[Prisma]
 
-D --> LLMs
-D --> Agents
+D --> K[LLMs]
+D --> L[Agents]
 
-E --> ROS
-E --> Computer Vision
+E --> M[ROS]
+E --> N[Computer Vision]
+```
 
-```md
+---
+
 ## 📊 GitHub Stats
 
 ![](https://github-readme-stats.vercel.app/api?username=tavysmikael&show_icons=true&theme=tokyonight)
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=tavysmikael&layout=compact&theme=tokyonight)
-```
