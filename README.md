@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-Computer Engineering · PUC Goiás 
+Computer Engineering · PUC-GO
 
-I build applications that will change the world, and I'm deeply interested in automation, clean arquitecture, AI/LLM systems, and robotics — areas where software meets the physical world.
+I build applications that will change the world, and I'm deeply interested in automation, clean arquitecture, AI/LLM systems, and robotics. Areas where software meets the physical world.
 
 ---
 
