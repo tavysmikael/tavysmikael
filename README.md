@@ -2,7 +2,7 @@
 
 Computer Engineering · PUC-GO
 
-I build applications that will change the world, and I'm deeply interested in automation, clean arquitecture, AI/LLM systems, and robotics. Areas where software meets the physical world.
+I build applications that make a positive impact on the world, and I'm deeply interested in areas where software meets the physical world.
 
 ---
 
